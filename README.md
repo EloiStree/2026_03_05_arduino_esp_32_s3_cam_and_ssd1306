@@ -9,3 +9,6 @@ Info about the XIAO: https://github.com/EloiStree/HelloXiaoCamToRXTX
 Tutorial Camera: https://www.youtube.com/watch?v=asP3AOQtrQ8&t=229s    
 Read the Camera in Godot: https://github.com/EloiStree/2026_05_09_gdp_esp32s3_webcam   
 ESP Arduino SSD1306: https://github.com/EloiStree/2026_04_27_esp32_oled_128x64_udp_i2c   
+
+
+<img width="939" height="437" alt="image" src="https://github.com/user-attachments/assets/ec90b217-b201-4b62-9883-5759917c50cc" />
