@@ -19,5 +19,5 @@ http://192.168.137.135/capture
 [<img width="629" height="117" alt="image" src="https://github.com/user-attachments/assets/7f2126bc-53a8-4e06-907b-e0d5bf0ab17e" />](http://192.168.137.135:81/stream)     
 http://192.168.137.135:81/stream    
 
-
+Resolution `320x240 px` if you want a mjpeg stream low format.
 
